@@ -577,16 +577,13 @@ body {
     height: auto;
     padding: 40px 20px;
     text-align: center;
-    position: relative;
     overflow: hidden;
-    z-index: 1; 
     background-color:#e8f5e9;
 }
 
 
 #riwayat .riwayatpen {
     text-align: center;
-    max-width: 1200px;
     margin: 0 auto;
   }
   
