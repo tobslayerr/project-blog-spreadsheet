@@ -1226,7 +1226,7 @@ textarea {
     font-size: 2em;
 }
 
-#isibox1 .btn {
+#isibox1 .btn, #isibox2 .btn, #isibox3 .btn {
    margin-left: 90px;
    width: 50%;
 }
