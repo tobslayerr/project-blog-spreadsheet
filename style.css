@@ -1102,11 +1102,11 @@ textarea {
       padding: 0 10px;
    }
    
-   .main-container .image {
-    width: 250px;
-    height: 250px;
+    .main-container .image{
+    width: 160px;
+    height: 200px;
+    border-radius: 50%;
    }
-
 
    .main-container .content {
     max-width: 100%;
@@ -1134,7 +1134,7 @@ textarea {
 }
 
 #riwayat .riwayatpen {
-    max-width: 400px;
+    max-width: 200px;
     margin: 0 auto;
   }
 
